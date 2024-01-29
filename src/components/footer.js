@@ -9,10 +9,9 @@ export const Footer = () => {
             <a
               class="link"
               href="https://github.com/ArcherXcode"
-              className="hover:underline hover:text-blue-400"
-            >
-              Sujeev Gyawali &amp; Ayush Mishra{" "}
-            </a>
+              className="hover:underline hover:text-blue-400">
+              Sujeev Gyawali </a> &amp; <a class="link" href="https://github.com/ArcherXcode" className="hover:underline hover:text-blue-400"> Ayush Mishra{" "}
+                </a>
           </h3>
         </div>
         <div className='flex absolute -mt-3 items-center'>
